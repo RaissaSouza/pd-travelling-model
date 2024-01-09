@@ -43,6 +43,7 @@ Our travelling model code used the same network architecture with two modificati
 
 ```
 To run this code, you will need to change the params variable to match the size of your image data and to read the correct column for your labels. After you update the file you can save and run:
+-s is model name to save and -c is number of cycles
 ```
 python distributed_learning.py -s ./best_model -c 30
 ```
