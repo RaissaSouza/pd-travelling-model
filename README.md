@@ -8,15 +8,27 @@
 </p>
 
 
-Implementation for distributed learning using the Travelling Model for a Parkinson's disease classifier that is under review by the Frontiers in Artificial Intelligence: "[A multi-center distributed learning approach for Parkinson's disease classification using the travelling model paradigm] (link:coming soon).
+Implementation for distributed learning using the Travelling Model for a Parkinson's disease classifier that is under review by the Frontiers in Artificial Intelligence: "[A multi-center distributed learning approach for Parkinson's disease classification using the travelling model paradigm] (https://doi.org/10.3389/frai.2024.1301997).
 
 Our code here is based on the investigation of a Parkinson's disease classification using non-identical distribution across 83 centers.
 
 If you find our framework, code, or paper useful to your research, please cite us!
 ```
-@inproceedings{}
+@article{Souza2024,
+   author = {Raissa Souza and Emma A. M. Stanley and Milton Camacho and Richard Camicioli and Oury Monchi and Zahinoor Ismail and Matthias Wilms and Nils D. Forkert},
+   doi = {10.3389/frai.2024.1301997},
+   issn = {2624-8212},
+   journal = {Frontiers in Artificial Intelligence},
+   month = {2},
+   title = {A multi-center distributed learning approach for Parkinson's disease classification using the traveling model paradigm},
+   volume = {7},
+   url = {https://www.frontiersin.org/articles/10.3389/frai.2024.1301997/full},
+   year = {2024},
+}
+
 ```
 ```
+Souza, R., Stanley, E. A. M., Camacho, M., Camicioli, R., Monchi, O., Ismail, Z., Wilms, M., & Forkert, N. D. (2024). A multi-center distributed learning approach for Parkinson’s disease classification using the traveling model paradigm. Frontiers in Artificial Intelligence, 7. https://doi.org/10.3389/frai.2024.1301997
 ```
 
 ### Abstract 
