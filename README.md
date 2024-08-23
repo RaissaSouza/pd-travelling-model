@@ -8,7 +8,7 @@
 </p>
 
 
-Implementation for distributed learning using the Travelling Model for a Parkinson's disease classifier that is under review by the Frontiers in Artificial Intelligence: "[A multi-center distributed learning approach for Parkinson's disease classification using the travelling model paradigm] (https://doi.org/10.3389/frai.2024.1301997).
+Implementation for distributed learning using the Travelling Model for a Parkinson's disease classifier that is published by the Frontiers in Artificial Intelligence: "[A multi-center distributed learning approach for Parkinson's disease classification using the travelling model paradigm] (https://doi.org/10.3389/frai.2024.1301997).
 
 Our code here is based on the investigation of a Parkinson's disease classification using non-identical distribution across 83 centers.
 
